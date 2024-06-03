@@ -1,0 +1,11 @@
+{
+    "azureFunctions.deploySubpath": "Cloud-Verzamelen\\level-01\\03-je-eerste-azure-function\\Je-eerste-Azure-Function-7875ea0ba37d-cdb7d7d8cd3f\\function-app",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectLanguageModel": 4,
+    "azureFunctions.postDeployTask": "npm install (functions)",
+    "azureFunctions.preDeployTask": "npm prune (functions)"
+}
